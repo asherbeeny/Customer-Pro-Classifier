@@ -27,3 +27,5 @@
 - transaction_day: good distribution across days of the month
 - transaction_hour: most of the transaciton is in hte morning and noon time
 - transaction_weekday: good distribution across days of the week
+
+
